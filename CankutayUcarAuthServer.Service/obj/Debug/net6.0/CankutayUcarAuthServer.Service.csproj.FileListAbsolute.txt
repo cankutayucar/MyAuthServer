@@ -1,0 +1,17 @@
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\bin\Debug\net6.0\CankutayUcarAuthServer.Service.deps.json
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\bin\Debug\net6.0\CankutayUcarAuthServer.Service.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\bin\Debug\net6.0\CankutayUcarAuthServer.Service.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.csproj.AssemblyReference.cache
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.AssemblyInfoInputs.cache
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.AssemblyInfo.cs
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.csproj.CoreCompileInputs.cache
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\refint\CankutayUcarAuthServer.Service.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\ref\CankutayUcarAuthServer.Service.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\bin\Debug\net6.0\CankutayUcarAuthServer.Core.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\bin\Debug\net6.0\CankutayUcarAuthServer.Data.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\bin\Debug\net6.0\CankutayUcarAuthServer.Data.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\bin\Debug\net6.0\CankutayUcarAuthServer.Core.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Service\obj\Debug\net6.0\CankutayUcarAuthServer.Service.csproj.CopyComplete

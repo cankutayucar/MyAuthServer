@@ -1,0 +1,12 @@
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\bin\Debug\net6.0\CankutayUcarAuthServer.Core.deps.json
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\bin\Debug\net6.0\CankutayUcarAuthServer.Core.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\bin\Debug\net6.0\CankutayUcarAuthServer.Core.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.csproj.AssemblyReference.cache
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.AssemblyInfo.cs
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\refint\CankutayUcarAuthServer.Core.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\ref\CankutayUcarAuthServer.Core.dll
