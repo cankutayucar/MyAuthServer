@@ -33,3 +33,12 @@ C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuth
 C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\CankutayUcarAuthServer.Shared.pdb
 C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\CankutayUcarAuthServer.Core.pdb
 C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\CankutayUcarAuthServer.Data.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
