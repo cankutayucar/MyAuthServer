@@ -281,6 +281,19 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "CankutayUcarAuthServer.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CankutayUcarAuthServer.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CankutayUcarAuthServer.Shared.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -731,10 +744,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CankutayUcarAuthServer.Shared/1.0.0": {
+      "type": "project",
+      "path": "../CankutayUcarAuthServer.Shared/CankutayUcarAuthServer.Shared.csproj",
+      "msbuildProject": "../CankutayUcarAuthServer.Shared/CankutayUcarAuthServer.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CankutayUcarAuthServer.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.6"
     ]
   },
@@ -769,7 +788,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Cankutay\\Desktop\\MyJsonWebToken\\CankutayUcarAuthServer\\CankutayUcarAuthServer.Shared\\CankutayUcarAuthServer.Shared.csproj": {
+              "projectPath": "C:\\Users\\Cankutay\\Desktop\\MyJsonWebToken\\CankutayUcarAuthServer\\CankutayUcarAuthServer.Shared\\CankutayUcarAuthServer.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -286,6 +286,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "CankutayUcarAuthServer.Shared": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.6"
         },
         "compile": {
@@ -294,6 +295,19 @@
         "runtime": {
           "bin/placeholder/CankutayUcarAuthServer.Core.dll": {}
         }
+      },
+      "CankutayUcarAuthServer.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CankutayUcarAuthServer.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CankutayUcarAuthServer.Shared.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -749,6 +763,11 @@
       "type": "project",
       "path": "../CankutayUcarAuthServer.Core/CankutayUcarAuthServer.Core.csproj",
       "msbuildProject": "../CankutayUcarAuthServer.Core/CankutayUcarAuthServer.Core.csproj"
+    },
+    "CankutayUcarAuthServer.Shared/1.0.0": {
+      "type": "project",
+      "path": "../CankutayUcarAuthServer.Shared/CankutayUcarAuthServer.Shared.csproj",
+      "msbuildProject": "../CankutayUcarAuthServer.Shared/CankutayUcarAuthServer.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {

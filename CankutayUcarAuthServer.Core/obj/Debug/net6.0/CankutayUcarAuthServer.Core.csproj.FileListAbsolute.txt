@@ -10,3 +10,6 @@ C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuth
 C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\refint\CankutayUcarAuthServer.Core.dll
 C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.pdb
 C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\ref\CankutayUcarAuthServer.Core.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\bin\Debug\net6.0\CankutayUcarAuthServer.Shared.dll
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\bin\Debug\net6.0\CankutayUcarAuthServer.Shared.pdb
+C:\Users\Cankutay\Desktop\MyJsonWebToken\CankutayUcarAuthServer\CankutayUcarAuthServer.Core\obj\Debug\net6.0\CankutayUcarAuthServer.Core.csproj.CopyComplete

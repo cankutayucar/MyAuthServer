@@ -224,6 +224,7 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "CankutayUcarAuthServer.Core/1.0.0": {
         "dependencies": {
+          "CankutayUcarAuthServer.Shared": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.6"
         },
         "runtime": {

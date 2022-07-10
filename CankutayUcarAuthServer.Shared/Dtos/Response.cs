@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace CankutayUcarAuthServer.Shared.Dtos
 {
     public class Response<T>
-    where T : class, new()
+    where T : class
     {
         public T Data { get; private set; }
         public int StatusCode { get; private set; }

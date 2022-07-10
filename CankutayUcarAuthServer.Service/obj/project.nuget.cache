@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qCEzwWOKsrJJSFyS6AyOfG5i3hu/OeItm8gKRi5sU6aN82H0zfpaQ2LixGc32nCj3tJoVtgswPuhgCcEJJr5dw==",
+  "dgSpecHash": "hKA5zBTrTqeMjpT7K6XuDcmHptAojUQv8ViJzK2gSdqqr8awS4CrWi2pPvS4RWQR4AMFjXtFrZ64mWGf7rIJ1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Cankutay\\Desktop\\MyJsonWebToken\\CankutayUcarAuthServer\\CankutayUcarAuthServer.Service\\CankutayUcarAuthServer.Service.csproj",
   "expectedPackageFiles": [

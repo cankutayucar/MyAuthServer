@@ -105,7 +105,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Cankutay\\Desktop\\MyJsonWebToken\\CankutayUcarAuthServer\\CankutayUcarAuthServer.Shared\\CankutayUcarAuthServer.Shared.csproj": {
+                "projectPath": "C:\\Users\\Cankutay\\Desktop\\MyJsonWebToken\\CankutayUcarAuthServer\\CankutayUcarAuthServer.Shared\\CankutayUcarAuthServer.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
