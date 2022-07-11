@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace CankutayUcarAuthServer.Core.Repositories
 {
     public interface IGenericRepository<TEntity>
-    where TEntity : class, new()
+    where TEntity : class
     {
         Task<TEntity> GetByIdAsync(int id);
         Task<IEnumerable<TEntity>> GetAllAsync();
